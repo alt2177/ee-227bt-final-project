@@ -1,1 +1,0 @@
-{"cmd": "\nimport cvxpy as cp\nimport numpy as np\nimport matplotlib.pyplot as plt\n", "cmd_opts": " --cell_id=Gdrbs3SGyw -s", "import_complete": 1, "terminal": "nvimterm"}
